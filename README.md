@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Resources
-    - Data Source: wikipedia.movies.json, ratings.csv, movies_metadata.csv
+    - Data Source: wikipedia.movies.json, ratings.csv (kaggle), movies_metadata.csv (kaggle)
     - Software: Python 3.7.6, conda 4.8.3, Visual Studio Code 1.47.2, Jupyter Notebook 6.0.3 pgAdmin 4 v4.23
   
 ## Challenge Overview, Assumptions, and Results
